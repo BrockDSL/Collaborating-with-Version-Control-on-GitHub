@@ -1,28 +1,28 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
-![Tool Logo](Image filename)
+![Tool Logo](Github_Part2.png)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Collaborating with Version Control on GitHub
+In this workshop, attendees will learn about the different ways that GitHub can be used to collaborate on projects including organizations, collaborators, issues, forking, and pull requests.  This workshop is the second in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-## Setup Instructions
-In preparation for this workshop, you will need...
+A basic understanding of using repositories in GitHub is recommended for this workshop.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+## Setup
+In preparation for this workshop, you will need the following: 
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+ - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
+ - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
+ - A GitHub repository with at least one file that you can edit in it.  Even a brand new repository with just a README file will do.
 
-## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
 
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+## Next Steps
+After completing this workshop, the recommended next steps are:
 
- 
+ - Try working on something together with a friend or colleague.  GitHub doesn't just have to be for work!  You can plan a party, store photos, or anything else you can think of!  Just make sure to use private repositories for personal or sensitive information.  Using the tool frequently will ensure you don't forget the terminology and keep things fresh in your mind.
+ - Consider attending the "Making a Free Webpage with GitHub Pages" workshop which is next in The GitHub Workshop Series.  
+
+
+
+----
  
  
 
