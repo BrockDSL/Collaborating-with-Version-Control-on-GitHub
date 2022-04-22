@@ -4,21 +4,23 @@
 # Collaborating with Version Control on GitHub
 In this workshop, attendees will learn about the different ways that GitHub can be used to collaborate on projects including organizations, collaborators, issues, forking, and pull requests.  This workshop is the second in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-A basic understanding of using repositories in GitHub is recommended for this workshop.
+A basic understanding of using repositories in GitHub is recommended for this workshop.  
 
+
+----
 ## Setup
 In preparation for this workshop, you will need the following: 
 
  - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
  - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
- - A GitHub repository with at least one file that you can edit in it.  Even a brand new repository with just a README file will do.
+ - A GitHub repository with at least one file that you can edit in it.  Even a brand new repository with just a README file will do.  
 
-
+----
 ## Next Steps
 After completing this workshop, the recommended next steps are:
 
  - Try working on something together with a friend or colleague.  GitHub doesn't just have to be for work!  You can plan a party, store photos, or anything else you can think of!  Just make sure to use private repositories for personal or sensitive information.  Using the tool frequently will ensure you don't forget the terminology and keep things fresh in your mind.
- - Consider attending the "Making a Free Webpage with GitHub Pages" workshop which is next in The GitHub Workshop Series.  
+ - Consider attending the "Making a Free Webpage with GitHub Pages" workshop which is next in The GitHub Workshop Series.   
 
 
 
