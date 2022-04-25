@@ -6,6 +6,7 @@ In this workshop, attendees will learn about the different ways that GitHub can 
 
 A basic understanding of using repositories in GitHub is recommended for this workshop.  
 
+*Estimated workshop length: 1.5 hours*
 
 ----
 ## Setup
