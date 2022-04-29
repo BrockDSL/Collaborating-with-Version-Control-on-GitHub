@@ -21,8 +21,11 @@ In preparation for this workshop, you will need the following:
 After completing this workshop, the recommended next steps are:
 
  - Try working on something together with a friend or colleague.  GitHub doesn't just have to be for work!  You can plan a party, store photos, or anything else you can think of!  Just make sure to use private repositories for personal or sensitive information.  Using the tool frequently will ensure you don't forget the terminology and keep things fresh in your mind.
- - Consider attending the "Making a Free Webpage with GitHub Pages" workshop which is next in The GitHub Workshop Series.   
-
+- Check out the other workshops in our introduction to GitHub Series
+   - [Introduction to GitHub Repositories and GitHub Desktop](https://brockdsl.github.io/Introduction-to-GitHub-Repositories-and-GitHub-Desktop/)
+   - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
+   - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Automating-tasks-with-GitHub-Actions/)
+  
 
 
 ----
