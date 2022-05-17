@@ -18,13 +18,14 @@ In preparation for this workshop, you will need the following:
 ----  
 ## Workshop Tasks
 **Task Set 1**  
+  
 1. Open a repository in GitHub desktop either by using the “Code” button in your online repository or by opening GitHub desktop and navigating to it from the dropdown menu
 2. Check that the repository is up to date by “Fetching” the origin and pulling any changes if needed
 3. Open the repository in your file explorer and edit the repository in some way (editing the README file is easiest) then commit and push the change.
 4. Go to the History tab in GitHub desktop and revert the commit by right clicking it and selecting “Revert changes in this commit”
 5. Push the reverted commit to your online repository
-6. Once you have done this, type “COMMIT REVERTED!!!!” in the chat to let me know you are ready to move on
-
+6. Once you have done this, type “COMMIT REVERTED!!!!” in the chat to let me know you are ready to move on  
+  
 **Task Set 2**  
 1. Navigate to the link in the chat and make a new issue under the “Issues” tab 
 2. Once your issue has been submitted, fork the repository using the “Fork” button at the top right of the page
