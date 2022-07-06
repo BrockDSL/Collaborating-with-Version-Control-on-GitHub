@@ -15,7 +15,10 @@ In preparation for this workshop, you will need the following:
  - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
  - GitHub Desktop which can be acquired at [https://desktop.github.com/](https://desktop.github.com/).  Keep in mind that if you are not using a personal computer for this workshop, you may need to contact your IT department for permission to install new software.
  - A GitHub repository with at least one file that you can edit in it.  Even a brand new repository with just a README file will do.  
+  
 ----  
+  
+
 ## Workshop Tasks
 **Task Set 1**  
   
