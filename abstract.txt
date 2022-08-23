@@ -1,0 +1,3 @@
+In this workshop, attendees will learn about the different ways that GitHub can be used to collaborate on projects including organizations, collaborators, issues, forking, and pull requests.
+
+A basic understanding of using repositories in GitHub is recommended for this workshop.
