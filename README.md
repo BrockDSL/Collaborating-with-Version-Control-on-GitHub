@@ -46,7 +46,7 @@ After completing this workshop, the recommended next steps are:
    - [Introduction to GitHub Repositories and GitHub Desktop](https://brockdsl.github.io/Introduction-to-GitHub-Repositories-and-GitHub-Desktop/)
    - [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
    - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Automating-tasks-with-GitHub-Actions/)
-  
+   - [GitHub Tips for Programmers](https://brockdsl.github.io/GitHub-Tips-for-Programmers/)
 
 
 ----
